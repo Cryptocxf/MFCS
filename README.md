@@ -3,7 +3,9 @@
 * **课程名称**：北航《网络空间安全数学基础》——2020秋季  
 * **任课老师**：高莹老师  
 * **课程助教**：cxf_BY2039101  
-* **主要内容**：本课程的面向对象为网络空间安全专业或相关专业的研究生(硕士或博士)，其内容包括密码学的信息论基础、代数学基础、椭圆曲线、格、图论和博弈论等。本课程以增强学生对数学知识在密码学中的深刻认识和具体作用，着力培养学生的逻辑思维能力和数学推理能力。  
+* **主要内容**：本课程的面向对象为网络空间安全专业或相关专业的研究生(硕士或博士)，其内容包括
+**`密码学的信息论基础、代数学基础、椭圆曲线、格、图论和博弈论`**
+等。本课程以增强学生对数学知识在密码学中的深刻认识和具体作用，着力培养学生的逻辑思维能力和数学推理能力。  
 -----------------------------------------------
 ## 教学课件  
 * **1. 密码学的信息论基础.pdf**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/1.%20%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%9F%BA%E7%A1%80-gao.pdf)  
@@ -20,9 +22,9 @@
 ## 参考资料  
 * **《An introduction to mathematical cryptography(Second edition)》**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/an%20introduction%20to%20mathematical%20cryptography.pdf)  
 * **《A course in game theory》by Martin J. Osborne,	Ariel	Rubinstein**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/A%20Course%20in%20Game%20Theory%20by%20Martin%20J.%20Osborne%2C%20Ariel%20Rubinstein%20.pdf)  
-* **《A course in game theory》中文版**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/A%20Course%20in%20Game%20Theory%20(%E4%B8%AD%E6%96%87%EF%BC%89.pdfA)
+* **《A course in game theory》中文版**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/A%20Course%20in%20Game%20Theory%20-chinese.pdf)    
 -----------------------------------------------
-## 作业参考解答  
+## 作业参考解答（注：也可以直接[下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/answer/%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94v2.0.pdf)作业参考解答PDF版本） 
 ###  第一次作业:密码学的信息论基础 
 * **题1.**   
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/1.1.1.png)
@@ -73,7 +75,7 @@
 	 
 * **解**  
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/4.1.11.png)    
-* 计算椭圆曲线点数python参考代码如下：
+* 附：计算椭圆曲线点数python参考代码如下（个人巩固练习，仅供参考）
 ```python
 x = 0
 y = 0
@@ -87,7 +89,7 @@ while x<31:
 	x = x + 1
 ```  
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/4.1.111.png)
-* 计算椭圆曲线中的点加运算python参考代码如下：
+* 附：计算椭圆曲线中的点加运算python参考代码如下（个人巩固练习，仅供参考）
 ```python
 y=0
 x=0
@@ -138,7 +140,7 @@ while x<F: #求P+Q
 
 * **解**  
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/6.1.2.png)
-* LLL算法例子python参考代码如下：
+* 附：LLL算法例子python参考代码如下（个人巩固练习，仅供参考）
 ```python
 k = 2
 v1 = [20,16,3]

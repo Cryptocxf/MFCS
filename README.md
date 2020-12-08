@@ -6,21 +6,21 @@
 * **主要内容**：本课程的面向对象为网络空间安全专业或相关专业的研究生(硕士或博士)，其内容包括密码学的信息论基础、代数学基础、椭圆曲线、格、图论和博弈论等。本课程以增强学生对数学知识在密码学中的深刻认识和具体作用，着力培养学生的逻辑思维能力和数学推理能力。  
 -----------------------------------------------
 ## 教学课件  
-* **1. 密码学的信息论基础.pdf**	—	[点击下载](https://pan.baidu.com/s/1hztSVzB_QzE_5nPYW_6-Rw)，提取码：`njbn`  
-* **2. 密码学的信息论基础.pdf**	—	[点击下载](https://pan.baidu.com/s/1MBsgRFT654PJUjaYS5mXrA)，提取码：`obzh`
-* **3. 代数学基础.pptx**	—	[点击下载](https://pan.baidu.com/s/1Q3ymBlQkJW0KyD_c8tJKXg)，提取码：`5o8w`  
-* **4. 椭圆曲线(1).pdf**	—	[点击下载](https://pan.baidu.com/s/1nG7cG0y58ECeL5QIljCcAA)，提取码：`s1u9` 
-* **5. 椭圆曲线(2).pdf**	—	[点击下载](https://pan.baidu.com/s/1F3HVa7MoDsaG8dkpZ5KQCA)，提取码：`s75o` 
+* **1. 密码学的信息论基础.pdf**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/1.%20%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%9F%BA%E7%A1%80-gao.pdf)  
+* **2. 密码学的信息论基础.pdf**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/2.%20%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80-gao.pdf)
+* **3. 代数学基础.pptx**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/3.%20%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-gao.pptx) 
+* **4. 椭圆曲线(1).pdf**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/4.%20%E6%A4%AD%E5%9C%86%E6%9B%B2%E7%BA%BF-gao%20.pdf) 
+* **5. 椭圆曲线(2).pdf**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/5.%20%E6%A4%AD%E5%9C%86%E6%9B%B2%E7%BA%BF2-gao.pdf) 
 * **6. 格(1).ppt**  
-* **7. 格(2).ppt**	—	[点击下载](https://pan.baidu.com/s/1I8tHQLrKPx2uaAmIt5FFbQ)，提取码：`6g9e`  
+* **7. 格(2).ppt**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/7.%20%E6%A0%BC2-gao.pdf)  
 * **8. 格(3).ppt**
-* **9. 图论的基本模型与算法.ppt**	—	[点击下载](https://pan.baidu.com/s/1Gz6LSKWqEdy2F2YKFQVSXw)，提取码：`b289`  
-* **10.博弈论介绍.ppt**	—	[点击下载](https://pan.baidu.com/s/1OXAtGFGTLDkJzXKTKJmGug)，提取码：`bt0v`  
+* **9. 图论的基本模型与算法.ppt**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/9.%20%E5%9B%BE%E8%AE%BA%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)  
+* **10.博弈论介绍.ppt**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/10.%20%E5%8D%9A%E5%BC%88%E8%AE%BA%E4%BB%8B%E7%BB%8D.pdf)  
 -----------------------------------------------
 ## 参考资料  
-* **《An introduction to mathematical cryptography(Second edition)》**	—	[点击下载](https://pan.baidu.com/s/1IqVOJ7vGvNj-9M-WUUBAlQ)，提取码：`heu7`  
-* **《A course in game theory》by Martin J. Osborne,	Ariel	Rubinstein**	—	[点击下载](https://pan.baidu.com/s/1HMRL7TNjYEFhLQM5FcVYUQ)，提取码：`29n7`  
-* **《A course in game theory》中文版**	—	[点击下载](https://pan.baidu.com/s/14BRA817gR7R_Z4H6Vdd34A)，提取码：`085z`
+* **《An introduction to mathematical cryptography(Second edition)》**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/an%20introduction%20to%20mathematical%20cryptography.pdf)  
+* **《A course in game theory》by Martin J. Osborne,	Ariel	Rubinstein**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/A%20Course%20in%20Game%20Theory%20by%20Martin%20J.%20Osborne%2C%20Ariel%20Rubinstein%20.pdf)  
+* **《A course in game theory》中文版**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/A%20Course%20in%20Game%20Theory%20(%E4%B8%AD%E6%96%87%EF%BC%89.pdfA)
 -----------------------------------------------
 ## 作业参考解答  
 ###  第一次作业:密码学的信息论基础 

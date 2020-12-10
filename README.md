@@ -1,4 +1,4 @@
-# The-mathematical-foundation-of-cyberspace-security
+# the-Mathematical-Foundation-of-Cyberspace-Security (MFCS)
 ## 课程介绍
 * **课程名称**：北航《网络空间安全数学基础》——2020秋季  
 * **任课老师**：高莹老师  

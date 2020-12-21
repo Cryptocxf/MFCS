@@ -13,9 +13,9 @@
 * **3. 代数学基础.pptx**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/3.%20%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-gao.pptx) 
 * **4. 椭圆曲线(1).pdf**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/4.%20%E6%A4%AD%E5%9C%86%E6%9B%B2%E7%BA%BF-gao%20.pdf) 
 * **5. 椭圆曲线(2).pdf**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/5.%20%E6%A4%AD%E5%9C%86%E6%9B%B2%E7%BA%BF2-gao.pdf) 
-* **6. 格(1).ppt**  
+* **6. 格(1).ppt**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/7.%20%E6%A0%BC1-gao.pdf)  
 * **7. 格(2).ppt**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/7.%20%E6%A0%BC2-gao.pdf)  
-* **8. 格(3).ppt**
+* **8. 格(3).ppt**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/7.%20%E6%A0%BC3-gao.pdf)
 * **9. 图论的基本模型与算法.ppt**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/9.%20%E5%9B%BE%E8%AE%BA%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)  
 * **10.博弈论介绍.ppt**	—	[点击下载](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/course/10.%20%E5%8D%9A%E5%BC%88%E8%AE%BA%E4%BB%8B%E7%BB%8D.pdf)  
 -----------------------------------------------
